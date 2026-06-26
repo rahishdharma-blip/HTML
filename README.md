@@ -43,7 +43,7 @@
         <input type="number">
         <br>
         
-        <p>Select your Department : </p>
+<p>Select your Department : </p>
         <br>
         <select>
             <option>CIVIL</option>
